@@ -1,0 +1,29 @@
+type: GenericCrafter
+size: 3
+craftTime: 90
+itemCapacity: 10
+craftEffect: fire
+consumes: {
+    power: 3
+    items: {
+        items: [
+	        iron/2
+	        coal/3
+	     ]
+    }
+outputItem: steel/2
+ambientSound: flame
+ambientSoundVolume: 1.0
+category: crafting
+research: {
+    parent: silicon-crucible
+    requirements: [
+	    iron/100
+		]
+	}
+researchCost: [
+    iron/4000
+	titanium/2000
+	copper/1000
+	lead/750
+]
