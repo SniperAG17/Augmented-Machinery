@@ -11,6 +11,7 @@ consumes: {
 	        coal/3
 	     ]
     }
+}
 outputItem: steel/2
 ambientSound: flame
 ambientSoundVolume: 1.0
