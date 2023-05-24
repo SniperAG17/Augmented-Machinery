@@ -1,4 +1,3 @@
-# Galaxys-Bounty
-A Mindustry mod that'll add a lot of new content
+# Augmented Machinery
+A Mindustry mod that'll add a bunch of stuff, including an attempt at a unit augementation system.
 
-Yes, that's all you get. For now. I swear I'll add more later
